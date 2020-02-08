@@ -6,7 +6,7 @@ Insurance companies take risks over customers. Risk management is a very importa
 
 # Dataset Description-
 
-The dataset given consists of data corresponding to 50553. Following are the features of the dataset - 
+The dataset given consists of data corresponding to 50553 customers. Following are the features of the dataset - 
 
 1.Target: Claim Status (Claim)
 2.Name of agency (Agency)
